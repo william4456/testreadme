@@ -6,14 +6,18 @@
   <br>
 </h1>
 
+<div align="center">
+
+![twitter](https://img.shields.io/twitter/follow/arbalet_project.svg?style=social)
+</div>
+
 <h4 align="center">Documentation utilisateur</h4>
 
 <p align="center">
   <a href="#présentation">Présentation</a> •
-  <a href="#installation Arbalet Meki Live">Installation</a> •
+  <a href="#installation">Installation</a> •
   <a href="#utilisation">Utilisation</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
   <a href="#support">Support</a>
 </p>
 
@@ -27,7 +31,7 @@
 
 Cette documentation s'adresse aux professeurs d'écoles souhaitant mettre en place l'application Arbalet Meki Live.
 
-# Installation Arbalet Meki Live
+# Installation 
 
 ## Windows
 - Téléchargez le fichier .exe
