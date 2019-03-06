@@ -8,7 +8,7 @@
 
 <div align="center">
 
-![twitter](https://img.shields.io/twitter/follow/arbalet_project.svg?style=social)
+[![twitter](https://img.shields.io/twitter/follow/arbalet_project.svg?style=social)](https://twitter.com/arbalet_project)
 </div>
 
 <h4 align="center">Documentation utilisateur</h4>
