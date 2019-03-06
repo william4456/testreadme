@@ -91,12 +91,12 @@ Play / Stop / Rotate
 
 # Support
 
-<img src="site.png" width ="20px"> Website at <a href="http://www.arbalet-project.org/" target="_blank">`arbaletproject.org`</a>
+- <img src="site.png" style="vertical-align:middle" width ="20px"> Website at <a href="http://www.arbalet-project.org/" target="_blank">`arbaletproject.org`</a>
 
-<img src="twitter.svg" width ="20px">Twitter at <a href="https://twitter.com/arbalet_project" target="_blank">`@arbalet_project`</a>
+- <img src="twitter.svg" style="vertical-align:middle"  width ="22px">Twitter at <a href="https://twitter.com/arbalet_project" target="_blank">`@arbalet_project`</a>
 
-- Linkedin at <a href="https://www.linkedin.com/company/arbalet/" target="_blank">`arbalet`</a>
+- <img src="linkedin.svg" style="vertical-align:middle" width ="20px"> Linkedin at <a href="https://www.linkedin.com/company/arbalet/" target="_blank">`arbalet`</a>
 
-- Blog at <a href="http://talk.arbalet-project.org/" target="_blank">`arbalet-blog`</a>
+- <img src="blog.png" style="vertical-align:middle" width ="20px"> Blog at <a href="http://talk.arbalet-project.org/" target="_blank">`arbalet-blog`</a>
 
 ---
